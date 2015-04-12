@@ -11,8 +11,7 @@ actual,  que  corresponda  a  alguna  afición  (equipo  de
 fútbol,  políticas..)  y  desplegar  esas  direcciones  en  un 
 mapa utilizando la extensión de Flask para Google Maps.
 
-Grupo 13: Oscar Delgado Miranda
-          Miguel Angel Perez Garcia
+Grupo 13: Oscar Delgado Miranda y Miguel Angel Perez Garcia
           
 Nuestra busqueda de tweets está relacionada con el concepto "Cadiz 2015", 
 partiendo de las coordenadas geográficas de Cádiz capital en un radio de 500 kms.
