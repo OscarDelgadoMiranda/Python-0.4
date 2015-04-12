@@ -15,4 +15,4 @@ Grupo 13: Oscar Delgado Miranda
           Miguel Angel Perez Garcia
           
 Nuestra busqueda de tweets está relacionada con el concepto "Cadiz 2015", 
-partiendo de las coordenadas geográficas de Cádiz capital en un radio de 200 kms
+partiendo de las coordenadas geográficas de Cádiz capital en un radio de 200 kms.
